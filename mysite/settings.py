@@ -25,6 +25,7 @@ SECRET_KEY = 'y2jy24i^)u%aly92&!lj0y9_wx$x+s9kihf+4xs#7f7b$5!q#^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = ['127.0.0.1', '<kanevoker>.pythonanywhere.com']
 
 
